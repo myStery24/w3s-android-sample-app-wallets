@@ -40,3 +40,9 @@ pwsdk.maven.password=<GITHUB_PAT>
  5. Fill in the `App ID` and execute it along with `User Token`, `Encryption Key` and `Challenge ID`.    
 
 <img src="readme_images/running_app.png" alt="drawing" width="300"/>
+
+## Learning Outcomes
+- Configure Android Studio on your device
+- Launch Circle’s Programmable Wallet Android application 
+- Create a user-controlled wallet with the Programmable Wallets API
+- Implement wallet recovery on your User-Controlled wallet
